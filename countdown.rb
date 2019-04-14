@@ -13,5 +13,6 @@ def countdown(number_of_seconds)
     sleep 1
   end
   end
+  sleep 1
   return "HAPPY NEW YEAR!"
 end

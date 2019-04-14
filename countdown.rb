@@ -13,5 +13,5 @@ def countdown(number_of_seconds)
     sleep 1
   end
   end
-  puts "HAPPY NEW YEAR!"
+  return "HAPPY NEW YEAR!"
 end
